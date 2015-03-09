@@ -1,0 +1,17 @@
+{
+   "cloudflare": {
+      "checkip":"http:\/\/checkip.proxycha.in",
+      "api":"https:\/\/www.cloudflare.com\/api_json.html"
+   },
+   "account": {
+      "email":"email address",
+      "key":"api key",
+      "zone":"top level domain"
+   },
+   "zone": {
+      "name":"domain to update",
+      "proxy":false,
+      "type":"A",
+      "ttl":300
+   }
+}
